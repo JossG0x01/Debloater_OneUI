@@ -1,4 +1,4 @@
-# DebloaterOneUI
+# Debloater OneUI
 Disable Samsung apps, lighten the Ram consumption process 
 
 ## Credits
